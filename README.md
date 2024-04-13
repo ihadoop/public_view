@@ -1,13 +1,13 @@
 # Project Experiences
 
-## Java|SpringBoot|Web
+## Java|SpringBoot|Web|JSP|Servlet
 
-## Hadoop|MapReduce
+## Hadoop|MapReduce|Hdfs|Hive
 
-## Spark|Flink | ETL
+## Apache Spark|Apache Flink|ETL
 
-## DataScience | Data Analysis | Machine Learning
+## DataScience|Data Analysis|Machine Learning
 
-## ElasticSearch | Kafka | RealTime Processing
+## ElasticSearch|Kafka|RealTime Processing|Database
 
 
